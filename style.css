@@ -1,0 +1,43 @@
+.Heading{
+margin-left: 550px;
+color: #ff0066;
+font-size: 35px;
+}
+.Name
+{
+color: #006600;
+font-size: 15px;
+font-style:normal;
+}
+.Form
+{
+font-style: italic;
+color:#0066ff;
+margin-left: 400px;
+margin-right: 400px;
+}
+.Legend
+{
+margin-left:50px;
+
+
+}
+.Field
+{
+border: 3px solid green;
+}
+.Input:focus
+{
+border: none;
+border-bottom: 1px solid green;
+background-color:#c2f0f0;
+
+}
+ body
+ {
+ 
+ background-image: url("image/background.jpg") ;
+ background-repeat: no-repeat;
+ background-size:1300px 960px;
+
+ }
